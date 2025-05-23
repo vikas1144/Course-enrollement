@@ -11,7 +11,9 @@ This is a simple **command-line application in Python** that allows users to vie
 
 ## 🛠️ Built With
 
-- **Python 3**
+- **Python
+- HTML
+- CSS
 - Standard input/output (no external libraries required)
 
 ## ▶️ How to Run
